@@ -4,3 +4,7 @@ Hans Rosling was a professor of international health at Karolinska Institute in 
 <br>
 <h2> PowerBI Dashboard </h2>
 The US Federal Aviation Administration (FAA) is interested in an analyis of US airport delays. I was tasked with creating a dashboard with visualizations on the states, airlines, volume, and delay time of delayed domestic flights from 2003 to 2022.
+<br>
+<br>
+<h2> PowerBI Dashboard Screenshot</h2>
+<img width="1588" height="895" alt="US Airport Delays_Dashboard Screenshot" src="https://github.com/user-attachments/assets/0c057697-7d68-48c5-a870-d2bb66e5bce2" />
