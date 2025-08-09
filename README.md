@@ -6,5 +6,5 @@ Hans Rosling was a professor of international health at Karolinska Institute in 
 The US Federal Aviation Administration (FAA) is interested in an analyis of US airport delays. I was tasked with creating a dashboard with visualizations on the states, airlines, volume, and delay time of delayed domestic flights from 2003 to 2022.
 <br>
 <br>
-[!US Airport Delays_Dashboard Screenshot.png](US Airport Delays_Dashboard Screenshot.png)
+[!US Airport Delays_Dashboard Screenshot](US Airport Delays_Dashboard Screenshot.png)
 
